@@ -1,5 +1,11 @@
-$(document).ready(function(){
-    $('#circle').hover(function(){
-        $(this).hide();
-    })
-})
+$(document).ready(function () {
+    $("#circle").hover(function () {
+            
+            $("#square").css("background-color", "white");
+        }, function () {
+            
+            $("#square").css("background-color", "blue");
+            
+        }
+    );
+});
