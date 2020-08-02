@@ -1,0 +1,6 @@
+.container-fluid{
+    display: flex;
+}
+.icon a:hover ,.icon a:focus ,.icon a:active{
+    color: brown;
+}
