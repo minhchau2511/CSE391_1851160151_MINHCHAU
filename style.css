@@ -1,6 +1,15 @@
 .container-fluid{
     display: flex;
 }
-.icon a:hover ,.icon a:focus ,.icon a:active{
+.icon a:hover ,.icon a:active{
     color: brown;
+}
+ a.nav-link:hover,a.nav-link:focus,a.nav-link:active{
+    color:brown;
+}
+.carousel-item active{
+    display:flex;
+}
+.carousel-item{
+    display: flex;
 }
