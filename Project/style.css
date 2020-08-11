@@ -5,6 +5,7 @@
 }
 
 .container{
+    display: flex;
     margin-left: auto;
     margin-right: auto;
     padding-left: 15px;
@@ -126,29 +127,29 @@ body{
 }
 
 .slider .box-1{
-    background-image: url(../img/slider2.jpg);
+    background-image: url(img/slider2.jpg);
 }
 
 .slider .box-2{
-    background-image: url(../img/slider3.jpg);
+    background-image: url(img/slider3.jpg);
 }
 .slider .box-3{
-    background-image: url(../img/slider4.jpg);
+    background-image: url(img/slider4.jpg);
 }
 .slider .box-4{
-    background-image: url(../img/slider5.jpg);
+    background-image: url(img/slider5.jpg);
 }
 .slider .box-5{
-    background-image: url(../img/slider6.jpg);
+    background-image: url(img/slider6.jpg);
 }
 .slider .box-6{
-    background-image: url(../img/slider7.jpg);
+    background-image: url(img/slider7.jpg);
 }
 .slider .box-7{
-    background-image: url(../img/slider8.jpg);
+    background-image: url(img/slider8.jpg);
 }
 .slider .box-8{
-    background-image: url(../img/slider9.jpg);
+    background-image: url(img/slider9.jpg);
 }
 
 .model{
